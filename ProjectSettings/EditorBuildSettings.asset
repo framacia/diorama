@@ -6,9 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Splash_Screen.unity
+    guid: cd6df0c7e8246ba41b4b1bf06821dbba
+  - enabled: 1
     path: Assets/Scenes/Main Menu.unity
     guid: ad96197ffaede0b41b5f82b74120761e
   - enabled: 1
-    path: Assets/Scenes/tenerife_alt.unity
+    path: Assets/Scenes/aerial.unity
     guid: 16c90ea3bb669eb4ca8a4edae18ccbd5
+  - enabled: 1
+    path: Assets/Scenes/first_person.unity
+    guid: 4b24aa498371dd24693f556f4fc28593
   m_configObjects: {}
